@@ -12,8 +12,9 @@ Some of my current work uses data from observations of breaking internal solitar
 
 - **stratified flows:** instabilities, internal gravity waves and turbulence
 - **ocean mixing:** breaking internal waves, diagnosing and parameterising mixing efficiency
-- **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and modelling mixing and dissipation 
+- **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and models of dissipation and mixing
 
+## Recent Publications
 [comment]: {% include_relative _includes/publications.md %}
 
 [comment]: {% include_relative _includes/services.md %}
