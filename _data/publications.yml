@@ -4,16 +4,14 @@ main:
     authors: S. F. Lewin, C. P. Caulfield
     conference: Journal of Fluid Mechanics, 2024.
     pdf: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evidence-for-layered-anisotropic-stratified-turbulence-in-a-freely-evolving-horizontal-shear-flow/5875DECA06B38C2A431D59AD7E290202#article
+    code: https://cocalc.com/Cambridge/S0022112024001216/JFM-Notebooks
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:esxBqWbecRQJ:scholar.google.com/&output=citation&scisdr=ClE48TBoEN_l08if3SY:AFWwaeYAAAAAZ32ZxSZtdTBqrDjIersXf4FRVPo&scisig=AFWwaeYAAAAAZ32ZxZC08_c-eVIdbIPQONH0juk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/LAST_cover.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: A data-driven method for modelling dissipation rates in stratified turbulence
+    authors: S. F. Lewin, S. M. de Bruyn Kops, C. P. Caulfield & G. D. Portwood
+    conference: Journal of Fluid Mechanics, 2024.
+    pdf: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-method-for-modelling-dissipation-rates-in-stratified-turbulence/C787E90971BD6EB72481C8D67F4B205B
+    code: https://cambridge.org/S0022112023006791/JFM-Notebooks
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PE_cGejIefoJ:scholar.google.com/&output=citation&scisdr=ClE48TBoEN_l08ia55g:AFWwaeYAAAAAZ32c_5hDuzH6nEhSqLpsedS2hM8&scisig=AFWwaeYAAAAAZ32c_71Su__PRSYV4gGXGmMMYMo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/teaser_example.png
