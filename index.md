@@ -12,6 +12,6 @@ I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, supervise
 - **ocean mixing:** breaking internal waves, diagnosing and parameterising mixing efficiency
 - **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and modelling mixing and dissipation 
 
-{% include_relative _includes/publications.md %}
+[comment]: {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+[comment]: {% include_relative _includes/services.md %}
