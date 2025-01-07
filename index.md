@@ -16,5 +16,3 @@ Some of my current work uses data from observations of breaking internal solitar
 
 ## Recent Publications
 [comment]: {% include_relative _includes/publications.md %}
-
-[comment]: {% include_relative _includes/services.md %}
