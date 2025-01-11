@@ -8,6 +8,8 @@ I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, supervise
 
 Before starting my postdoc in Berkeley, I was a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, graduating in July 2023. Outside of the academic world, you’re most likely to find me on a bike or cooking dinner.
 
+You can find a list of some of my research interests and a couple of selected recent publications below. Or check out what I'm up to at the moment [here](https://samlewin.github.io/research).
+
 ## Research Interests
 
 - **stratified flows:** instabilities, internal gravity waves and turbulence
@@ -15,4 +17,5 @@ Before starting my postdoc in Berkeley, I was a PhD student in the Department of
 - **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and models of dissipation and mixing
 
 ## Recent Publications
+
 [comment]: {% include_relative _includes/publications.md %}
