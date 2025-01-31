@@ -411,10 +411,10 @@ header ul a:active {
 
 nav {
     background: #f9f9f9;
-    float:left;
     position:fixed;
     width: 232px; /* Adjust width as needed */
     display: inline-block;
+    align-items: center; 
 }
 
 nav ul {
@@ -423,6 +423,7 @@ nav ul {
     margin: 0;
     display: flex;
     gap: 10px; /* Add spacing between items */
+    align-items: center;
 }
 
 /* Navigation Links Inside Boxes */
