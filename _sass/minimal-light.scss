@@ -360,7 +360,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
+  padding-top:0.0em;
   text-align:center
 }
 
@@ -409,20 +409,22 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
+element {
+}
 nav {
   position: fixed;
   width: 232px;
   display: flex;
-  align-items: center;
-  top: 29em;
+  justify-content: center;
+  top: 28em;
+  margin-top: 20px;
 }
+
 nav ul {
   list-style: none;
   padding: 0;
-  margin: 22.5px;
   display: flex;
-  gap: 10px;
-  justify-content: center;
+  gap: 15px;
 }
 
 /* Navigation Links Inside Boxes */
@@ -471,7 +473,7 @@ header ul a strong {
 section {
   width:650px;
   float:right;
-  padding-top:4.0em;
+  padding-top:0.0em;
   padding-bottom:50px;
 }
 
