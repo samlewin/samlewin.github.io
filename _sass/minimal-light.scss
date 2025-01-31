@@ -411,13 +411,9 @@ header ul a:active {
 
 nav {
     background: #f9f9f9;
-    position: fixed;
-    top: 10px;  /* Adds space from the top */
-    left: 10px; /* Adds space from the left */
-    padding: 12px;
-    border-radius: 10px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-    width: auto; /* Adjust width as needed */
+    float:left;
+    position:fixed;
+    width: 232px; /* Adjust width as needed */
     display: inline-block;
 }
 
