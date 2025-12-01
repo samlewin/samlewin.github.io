@@ -12,9 +12,9 @@ Ask me about: cycling, comfort food, birds, wikipedia
 
 ## Research Interests
 
-- **stratified flows:** shear flows, instabilities, internal gravity waves and turbulence
-- **ocean mixing:** breaking internal waves, diagnosing and parameterising mixing efficiency
-- **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and models of dissipation and mixing
+- **stratified and buoyancy-driven flows:** shear layers, instabilities, internal gravity waves, gravity currents and turbulence 
+- **ocean mixing:** breaking internal waves, wave-mean flow interactions, diagnosing and parameterising mixing efficiency
+- **coastal ocean dynamics:** shoaling nonlinear internal waves, river plumes, fronts and models of dissipation and mixing
 
 ## Recent Publications
 
