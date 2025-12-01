@@ -16,6 +16,18 @@ Ask me about: cycling, comfort food, birds, wikipedia
 - **ocean mixing:** breaking internal waves, wave-mean flow interactions, diagnosing and parameterising mixing efficiency
 - **coastal ocean dynamics:** shoaling nonlinear internal waves, river plumes, fronts and models of dissipation and mixing
 
+## News
+Our recent submission to the APS Division of Fluid Dynamics Gallery of Fluid Motion 2025:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+      src="https://www.youtube.com/watch?v=6mrrflzWURY" 
+      frameborder="0" 
+      allowfullscreen
+      style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
 ## Recent Publications
 
 [comment]: {% include_relative _includes/publications.md %}
