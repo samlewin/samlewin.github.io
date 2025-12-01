@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, supervised by [Prof. Alexis Kaminski](https://akkaminski.github.io/). I am interested in understanding and modeling fundamental aspects of multiscale environmental flows whose dynamics are affected by buoyancy. My work is focused on flows in the ocean interior, guided by a combination of theory, observations and numerical simulations. In particular, I spend a lot of time thinking about the dynamics of stratified flows, including internal waves, instabilities and turbulence. All of these features exist at the smallest scales of ocean motion and play a crucial role in the mixing of heat, salt, nutrients and carbon.
+I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, working with [Prof. Alexis Kaminski](https://akkaminski.github.io/). I am interested in understanding and modelling multiscale fluid flows in the environment. My work is guided by a combination of theory, observations and numerical simulations. I spend a lot of time thinking about the dynamics of stratified flows, including internal waves, shear flows, instabilities and turbulence. In the ocean, these features play a critical role in the transport and mixing of heat, salt, nutrients and carbon.
 
-Before starting my postdoc in Berkeley, I was a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, graduating in July 2023. Outside of the academic world, you’re most likely to find me on a bike or cooking dinner.
+Previously, I was a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. You can find a list of some of my research interests and a couple of selected recent publications below. Or check out what I'm up to at the moment [here](https://samlewin.github.io/research).
 
-You can find a list of some of my research interests and a couple of selected recent publications below. Or check out what I'm up to at the moment [here](https://samlewin.github.io/research).
+Ask me about: cycling, comfort food, birds, wikipedia
 
 ## Research Interests
 
-- **stratified flows:** instabilities, internal gravity waves and turbulence
+- **stratified flows:** shear flows, instabilities, internal gravity waves and turbulence
 - **ocean mixing:** breaking internal waves, diagnosing and parameterising mixing efficiency
 - **coastal ocean dynamics:** nonlinear internal wave dynamics, gravity currents and models of dissipation and mixing
 
