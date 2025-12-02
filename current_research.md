@@ -10,7 +10,7 @@ permalink: /research
 
 ### Characterising buoyancy-driven flows in coastal seas
 *With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
-<div style="display:flex; gap:1rem; align-items:flex-start; width:100%;">
+<div style="display:flex; gap:1rem; align-items:flex-start; width:100%; flex-wrap: wrap;">
   <img src="./assets/img/innershelf_picture.jpg" 
        style="flex:0 0 40%; max-width:50%; height:auto; border-radius:4px;">
   <div style="flex:0 0 50%;">
