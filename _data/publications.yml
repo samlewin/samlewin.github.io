@@ -1,11 +1,18 @@
 main:
 
+  - title: Multiscale mixing variability on the inner shelf 
+    authors: S. F. Lewin, A. K. Kaminski, J. M. McSweeney and A. F. Waterhouse
+    conference: Journal of Physical Oceanography, 
+    pdf: https://journals.ametsoc.org/view/journals/phoc/55/10/JPO-D-25-0012.1.xml
+    preprint: https://cocalc.com/Cambridge/S0022112024001216/JFM-Notebooks
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jYDk2rT4RAUJ:scholar.google.com/&output=citation&scisdr=ChVrL0QlEJvEl5s4Jo8:ABGrvjIAAAAAaS4-Po93kgXIi0B1C8KNuLO7Rgw&scisig=ABGrvjIAAAAAaS4-PvAV9rXdUbe8KgxYAdRXB_U&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/LAST_cover.png
+
   - title: Evidence for layered anisotropic stratified turbulence in a freely evolving horizontal shear flow 
     authors: S. F. Lewin, C. P. Caulfield
     conference: Journal of Fluid Mechanics, 2024.
     pdf: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evidence-for-layered-anisotropic-stratified-turbulence-in-a-freely-evolving-horizontal-shear-flow/5875DECA06B38C2A431D59AD7E290202#article
     code: https://cocalc.com/Cambridge/S0022112024001216/JFM-Notebooks
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:esxBqWbecRQJ:scholar.google.com/&output=citation&scisdr=ClE48TBoEN_l08if3SY:AFWwaeYAAAAAZ32ZxSZtdTBqrDjIersXf4FRVPo&scisig=AFWwaeYAAAAAZ32ZxZC08_c-eVIdbIPQONH0juk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/LAST_cover.png
 
   - title: A data-driven method for modelling dissipation rates in stratified turbulence
@@ -13,5 +20,4 @@ main:
     conference: Journal of Fluid Mechanics, 2023.
     pdf: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-method-for-modelling-dissipation-rates-in-stratified-turbulence/C787E90971BD6EB72481C8D67F4B205B
     code: https://cambridge.org/S0022112023006791/JFM-Notebooks
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PE_cGejIefoJ:scholar.google.com/&output=citation&scisdr=ClE48TBoEN_l08ia55g:AFWwaeYAAAAAZ32c_5hDuzH6nEhSqLpsedS2hM8&scisig=AFWwaeYAAAAAZ32c_71Su__PRSYV4gGXGmMMYMo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/Graph_abs.jpg
