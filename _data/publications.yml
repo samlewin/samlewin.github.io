@@ -1,5 +1,12 @@
 main:
 
+  - title: Instability and breaking of internal waves in a horizontal shear flow
+    authors: S. F. Lewin, A. K. Kaminski, A. Balakrishna and M. M. P. Couchman
+    conference: Preprint
+    preprint: https://arxiv.org/pdf/2511.13280
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p0JA4tUTOKIJ:scholar.google.com/&output=citation&scisdr=ChUSBZpFEJvEl5tCOXA:ABGrvjIAAAAAaS5EIXCOVJydKTucaBb-ripDvMI&scisig=ABGrvjIAAAAAaS5EIaZk9VzbgpS6S4_Sbo2RwoQ&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/horizontalshear.jpeg
+    
   - title: Multiscale mixing variability on the inner shelf 
     authors: S. F. Lewin, A. K. Kaminski, J. M. McSweeney and A. F. Waterhouse
     conference: Journal of Physical Oceanography, 2025
