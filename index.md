@@ -23,6 +23,6 @@ Watch our submission to the APS Division of Fluid Dynamics Gallery of Fluid Moti
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6mrrflzWURY?si=w7718pcVc3MT3Ozh" title="YouTube video player" frameborder="0"  style="border: 5px solid #ccc; border-radius: 8px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 </div>
 
-## Recent Publications
+## Selected Publications
 
 [comment]: {% include_relative _includes/publications.md %}
