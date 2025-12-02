@@ -12,7 +12,7 @@ permalink: /research
 *With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
 <div style="display:flex; gap:1rem; align-items:flex-start; width:100%; flex-wrap: wrap;">
   <img src="./assets/img/innershelf_picture.jpg" 
-       style="flex:0 0 40%; max-width:50%; height:auto; border-radius:4px;">
+       style="flex:0 0 40%; max-width:40%; height:auto; border-radius:4px;">
   <div style="flex:0 0 50%;">
     Shoaling internal waves are key drivers of variability in coastal oceans. Working with data from the
     <a href="https://journals.ametsoc.org/view/journals/bams/102/5/BAMS-D-19-0281.1.xml">Inner Shelf Dynamics Experiment</a>
