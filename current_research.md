@@ -10,10 +10,39 @@ permalink: /research
 
 ### Characterising buoyancy-driven flows in coastal seas
 *With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
-<div style="display:flex; gap:1rem; align-items:flex-start; width:100%; flex-wrap: wrap;">
-  <img src="./assets/img/innershelf_picture.jpg" 
-       style="flex:0 0 40%; max-width:40%; height:auto; border-radius:4px;">
-  <div style="flex:0 0 50%;">
+<style>
+.image-text-container {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  width: 100%;
+  flex-wrap: wrap; /* allow wrapping */
+}
+
+.image-text-container img {
+  flex: 0 0 40%;
+  max-width: 40%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.image-text-container div {
+  flex: 0 0 50%;
+}
+
+/* On narrow screens, stack items */
+@media (max-width: 768px) {
+  .image-text-container img,
+  .image-text-container div {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+</style>
+
+<div class="image-text-container">
+  <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
+  <div>
     Shoaling internal waves are key drivers of variability in coastal oceans. Working with data from the
     <a href="https://journals.ametsoc.org/view/journals/bams/102/5/BAMS-D-19-0281.1.xml">Inner Shelf Dynamics Experiment</a>
     alongside theory and numerical models, we are interested in characterizing and modelling key features of breaking internal
