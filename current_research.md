@@ -10,13 +10,41 @@ permalink: /research
 
 ### Characterising buoyancy-driven flows in coastal seas
 *With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
+<style>
+.image-text-container {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.image-text-container img {
+  flex: 1 1 50%;
+  max-width: 50%;
+  height: auto;
+}
+.image-text-container div {
+  flex: 1 1 50%;
+}
 
-<div style="display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap;">
-  <img src="./assets/img/innershelf_picture.jpg" style="flex: 1 1 50%; max-width: 50%; height:auto;" />
-  <div style="flex: 1 1 50%;">
-    Shoaling internal waves are key drivers of variability...
+@media (max-width: 768px) {
+  .image-text-container img,
+  .image-text-container div {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
+</style>
+
+<div class="image-text-container">
+  <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
+  <div>
+    Shoaling internal waves are key drivers of variability in coastal oceans...
   </div>
 </div>
+
+
+
+
 
 
 
