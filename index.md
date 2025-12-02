@@ -8,7 +8,7 @@ I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, working w
 
 Previously, I was a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. You can find a list of some of my research interests and some selected publications below. Or check out what I'm up to at the moment [here](https://samlewin.github.io/research).
 
-_Ask me about_: cycling, comfort food, birds, wikipedia
+_Ask me about_: cycling, music & music technology, comfort food, birds, wikipedia
 
 ## Research Interests
 
