@@ -8,7 +8,7 @@ I'm a postdoc in the Mechanical Engineering Department at UC Berkeley, working w
 
 Previously, I was a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. You can find a list of some of my research interests and a couple of selected recent publications below. Or check out what I'm up to at the moment [here](https://samlewin.github.io/research).
 
-Ask me about: cycling, comfort food, birds, wikipedia
+_Ask me about_: cycling, comfort food, birds, wikipedia
 
 ## Research Interests
 
@@ -16,8 +16,8 @@ Ask me about: cycling, comfort food, birds, wikipedia
 - **ocean mixing:** breaking internal waves, wave-mean flow interactions, diagnosing and parameterising mixing efficiency
 - **coastal ocean dynamics:** shoaling nonlinear internal waves, river plumes, fronts and models of dissipation and mixing
 
-## News
-Watch our recent submission to the APS Division of Fluid Dynamics Gallery of Fluid Motion 2025.
+## Recent Updates
+Watch our submission to the APS Division of Fluid Dynamics Gallery of Fluid Motion 2025 here:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6mrrflzWURY?si=w7718pcVc3MT3Ozh" title="YouTube video player" frameborder="0"  style="border: 5px solid #ccc; border-radius: 8px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
