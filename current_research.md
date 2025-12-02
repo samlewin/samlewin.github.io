@@ -10,37 +10,20 @@ permalink: /research
 
 ### Characterising buoyancy-driven flows in coastal seas
 *With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
-<style>
-.image-text-container {
-  display: flex;
-  gap: 1rem;
-  align-items: flex-start;
-  flex-wrap: wrap;
-}
-.image-text-container img {
-  flex: 1 1 50%;
-  max-width: 50%;
-  height: auto;
-}
-.image-text-container div {
-  flex: 1 1 50%;
-}
-
-@media (max-width: 768px) {
-  .image-text-container img,
-  .image-text-container div {
-    flex: 1 1 100%;
-    max-width: 100%;
-  }
-}
-</style>
-
-<div class="image-text-container">
-  <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
-  <div>
-    Shoaling internal waves are key drivers of variability in coastal oceans...
+<div style="display:flex; gap:1rem; align-items:flex-start; width:100%;">
+  <img src="./assets/img/innershelf_picture.jpg" 
+       style="flex:0 0 50%; max-width:40%; height:auto; border-radius:4px;">
+  <div style="flex:0 0 50%;">
+    Shoaling internal waves are key drivers of variability in coastal oceans. Working with data from the
+    <a href="https://journals.ametsoc.org/view/journals/bams/102/5/BAMS-D-19-0281.1.xml">Inner Shelf Dynamics Experiment</a>
+    alongside theory and numerical models, we are interested in characterizing and modelling key features of breaking internal
+    waves (for example, turbulent scalar and momentum fluxes, and diapycnal mixing). We are finding that the turbulent dynamics
+    are sensitive to properties of the flow over a wide range of scales: see our latest
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.173687392.29381789">preprint</a>
+    if you want to know more.
   </div>
 </div>
+
 
 
 
