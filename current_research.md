@@ -42,35 +42,30 @@ permalink: /research
 <div class="image-text-container">
   <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
   <div>
-  In coastal seas, flows driven by horizontal heat and/or salinity differences interact with ambient stratification and shear, resulting in    complex nonlinear dynamics. How can we characterise these features and model the transport and mixing they facilitate?
+  In coastal seas, flows driven by horizontal heat and/or salinity differences interact with ambient stratification and shear, resulting in complex nonlinear dynamics. How can we characterise these features and model the transport and mixing they facilitate?
   </div>
 </div>
 <br>
-
-*With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
+_With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)_
 <hr>
 ### Internal wave-mean flow interactions
-#### 
 <div class="image-text-container">
   <img src="./assets/img/horizontalshear.jpeg" alt="Inner shelf image">
   <div>
-A significant portion of energy in the ocean is stored in and transported by internal gravity waves. How do these waves exchange energy and momentum with background currents, and how do these exchanges lead to instability and wave-breaking? 
+A significant portion of mechanical energy in the ocean is stored in and transported by internal gravity waves. How do these waves exchange energy and momentum with background currents, and how do these exchanges lead to instability and wave-breaking? 
   </div>
 </div>
-<br>
-
-*With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York University) and Arun Balakrishna (Stanford University)*
+<br> 
+_With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York University) and Arun Balakrishna (Stanford University)_
 <hr> 
 
 ### Implicit large eddy simulation (ILES) for stratified and buoyancy-driven interfacial flows
 ILES is a large eddy simulation approach for finite volume numerics in which dissipation is entirely numerical and provided by a Weighted, Essential Non-Oscillatory (WENO) advection scheme. How effectively does it capture mixing statistics in flows with sharp density and velocity interfaces?
 <br>
-
 *With Anant Ayyar (now CU Boulder)*
 <hr> 
 
 ### Secondary shear instabilities in Kelvin-Helmholtz billows
 Billow-like vortices produced by Kelvin-Helmholtz instability are commonly observed in the natural environment, though our ability to model the subsequent pathways to turbulence are restricted by the range of Reynolds numbers that are accessible computationally. What are the dynamics leading to the formation of secondary instabilities in the large Reynolds number limit?
 <br>
-
 *With Emma Bouckley (University of Cambridge) and [Adrien Lefauve](https://www.alefauve.com/) (Imperial College London)*
