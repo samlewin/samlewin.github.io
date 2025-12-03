@@ -45,7 +45,7 @@ permalink: /research
   In coastal seas, flows driven by horizontal heat and/or salinity differences interact with ambient stratification and shear, resulting in complex nonlinear dynamics. How can we characterise these processes and model the transport and mixing they facilitate?
   </div>
 </div>
-<br>
+<br> 
 _With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)_
 <hr>
 ### Internal wave-mean flow interactions
@@ -62,7 +62,7 @@ _With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York Universit
 
 ILES is a large eddy simulation approach for finite volume numerics in which dissipation is entirely numerical and provided by the chosen advection scheme (for example, a Weighted, Essential Non-Oscillatory (WENO) scheme). How effectively does it capture properties of mixing in flows with sharp density and velocity interfaces?
 <br>
-*With Anant Ayyar (now CU Boulder)*
+_With Anant Ayyar (now CU Boulder)_
 <hr> 
 
 ### Secondary shear instabilities in Kelvin-Helmholtz billows
@@ -70,5 +70,5 @@ ILES is a large eddy simulation approach for finite volume numerics in which dis
   <img src="./assets/img/secondaries.jpeg" alt="Secondary Instabilities">
 <div>
 Billow-like vortices produced by Kelvin-Helmholtz instability are commonly observed in the natural environment, though our ability to model the subsequent pathways to turbulence are restricted by the range of Reynolds numbers that are accessible computationally. What are the dynamics leading to the formation of secondary instabilities in the large Reynolds number limit?
-<br>
-*With Emma Bouckley (University of Cambridge) and [Adrien Lefauve](https://www.alefauve.com/) (Imperial College London)*
+<br> 
+_With Emma Bouckley (University of Cambridge) and [Adrien Lefauve](https://www.alefauve.com/) (Imperial College London)_
