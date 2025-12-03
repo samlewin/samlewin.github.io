@@ -54,7 +54,7 @@ permalink: /research
 <div class="image-text-container">
   <img src="./assets/img/horizontalshear.jpeg" alt="Inner shelf image">
   <div>
-A significant portion of energy in the ocean is stored in and transported by internal gravity waves. How do exchanges of energy and momentum between internal waves and background currents lead to instability and wave-breaking? What are the properties of the resulting turbulence and mixing?
+A significant portion of energy in the ocean is stored in and transported by internal gravity waves. How do these waves exchange energy and momentum with background currents, and how do these exchanges lead to instability and wave-breaking? 
   </div>
 </div>
 <br>
