@@ -4,12 +4,6 @@ title: "Current Research"
 permalink: /research
 ---
 
-## Ongoing Projects
-
-<hr>
-
-### Characterising buoyancy-driven flows in coastal seas
-*With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
 <style>
 .image-text-container {
   display: flex;
@@ -40,40 +34,43 @@ permalink: /research
 }
 </style>
 
-<div class="image-text-container">
-  <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
-  <div>
-    Shoaling internal waves are key drivers of variability in coastal oceans. Working with data from the
-    <a href="https://journals.ametsoc.org/view/journals/bams/102/5/BAMS-D-19-0281.1.xml">Inner Shelf Dynamics Experiment</a>
-    alongside theory and numerical models, we are interested in characterizing and modelling key features of breaking internal
-    waves (for example, turbulent scalar and momentum fluxes, and diapycnal mixing). We are finding that the turbulent dynamics
-    are sensitive to properties of the flow over a wide range of scales: see our latest
-    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.173687392.29381789">preprint</a>
-    if you want to know more.
-  </div>
-</div>
-
-
-
-
-
-
-
-
+## Ongoing Projects
 
 <hr>
 
+### Buoyancy-driven flows in coastal seas
+<div class="image-text-container">
+  <img src="./assets/img/innershelf_picture.jpg" alt="Inner shelf image">
+  <div>
+  In coastal seas, flows driven by horizontal heat and/or salinity differences interact with ambient stratification and shear, resulting in    complex nonlinear dynamics. How can we characterise these features and model the transport and mixing they facilitate?
+  </div>
+</div>
+<br>
+
+*With [Jack McSweeney](https://jmcsweeney34.com/) (Stony Brook University)*
+<hr>
 ### Internal wave-mean flow interactions
-#### With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York University) and Arun Balakrishna (Stanford University)
-<img width="1378" alt="image" src="./assets/img/horizontalshear_picture.jpg" />
-Following on from work conducted during my [PhD](https://www.repository.cam.ac.uk/items/2b1f13f0-e1a4-4ad0-bfe2-058f821689b1), many important properties of sratified turbulent mixing are sensitive to the mechanisms by which small-scale turbulence extracts kinetic and potential energy from larger-scale motions. This can lead to significant deviations away from a commonly assumed turbulent stationary state maintained by vertical shear production. Together with [Miles Couchman](https://www.yorku.ca/professor/couchman/), we are conduting direct numerical simulations to investigate the curious behaviour of internal wave packets that are refracted by, and eventually break within, a stratified horizontal shear layer. This work was initiated at the [Stanford CTR Summer Program 2024](https://ctr.stanford.edu/summer-program): check out some preliminary results in the program proceedings [here](https://web.stanford.edu/group/ctr/ctrsp24/vi09_LEWIN.pdf).
+#### 
+<div class="image-text-container">
+  <img src="./assets/img/horizontalshear.jpeg" alt="Inner shelf image">
+  <div>
+A significant portion of energy in the ocean is stored in and transported by internal gravity waves. How do exchanges of energy and momentum between internal waves and background currents lead to instability and wave-breaking? What are the properties of the resulting turbulence and mixing?
+  </div>
+</div>
+<br>
 
+*With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York University) and Arun Balakrishna (Stanford University)*
 <hr> 
 
-### Implicit large eddy simulation for stratified and buoyancy-driven flows
-#### With Anant Ayyar (now CU Boulder)
+### Implicit large eddy simulation (ILES) for stratified and buoyancy-driven interfacial flows
+ILES is a large eddy simulation approach for finite volume numerics in which dissipation is entirely numerical and provided by a Weighted, Essential Non-Oscillatory (WENO) advection scheme. How effectively does it capture mixing statistics in flows with sharp density and velocity interfaces?
+<br>
 
+*With Anant Ayyar (now CU Boulder)*
 <hr> 
 
-### Secondary shear instabilities in interfacial flows
-#### With Emma Bouckley (University of Cambridge) and [Adrien Lefauve](https://www.alefauve.com/) (Imperial College London)
+### Secondary shear instabilities in Kelvin-Helmholtz billows
+Billow-like vortices produced by Kelvin-Helmholtz instability are commonly observed in the natural environment, though our ability to model the subsequent pathways to turbulence are restricted by the range of Reynolds numbers that are accessible computationally. What are the dynamics leading to the formation of secondary instabilities in the large Reynolds number limit?
+<br>
+
+*With Emma Bouckley (University of Cambridge) and [Adrien Lefauve](https://www.alefauve.com/) (Imperial College London)*
