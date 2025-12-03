@@ -62,7 +62,7 @@ _With [Miles Couchman](https://www.yorku.ca/professor/couchman/) (York Universit
 <div class="image-text-container">
   <img src="./assets/img/grav_current.png" alt="Gravity current">
 <div>
-ILES is a large eddy simulation approach for finite volume numerics in which dissipation is entirely numerical and provided by the chosen advection scheme (for example, a Weighted, Essential Non-Oscillatory (WENO) scheme). How effectively does it capture properties of mixing in flows with sharp density and velocity interfaces, such as gravity currents?
+ILES is a large eddy simulation approach for finite volume numerics in which dissipation is entirely numerical and provided by the chosen advection scheme (for example, a Weighted, Essentially Non-Oscillatory (WENO) scheme). How effectively does it capture properties of mixing in flows with sharp density and velocity interfaces, such as gravity currents?
 </div>
 </div>
 <br>
