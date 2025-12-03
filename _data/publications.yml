@@ -1,6 +1,6 @@
 main:
 
-  - title: Instability and breaking of internal waves in a horizontal shear flow
+  - title: Instability and breaking of internal waves in a horizontal shear layer
     authors: S. F. Lewin, A. K. Kaminski, A. Balakrishna and M. M. P. Couchman
     conference: Preprint, 2025
     preprint: https://arxiv.org/pdf/2511.13280
@@ -15,7 +15,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jYDk2rT4RAUJ:scholar.google.com/&output=citation&scisdr=ChVrL0QlEJvEl5s4Jo8:ABGrvjIAAAAAaS4-Po93kgXIi0B1C8KNuLO7Rgw&scisig=ABGrvjIAAAAAaS4-PvAV9rXdUbe8KgxYAdRXB_U&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/multiscale.jpeg
 
-  - title: Evidence for layered anisotropic stratified turbulence in a freely evolving horizontal shear layer 
+  - title: Evidence for layered anisotropic stratified turbulence in a freely evolving horizontal shear flow 
     authors: S. F. Lewin, C. P. Caulfield
     conference: Journal of Fluid Mechanics, 2024
     pdf: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/evidence-for-layered-anisotropic-stratified-turbulence-in-a-freely-evolving-horizontal-shear-flow/5875DECA06B38C2A431D59AD7E290202#article
